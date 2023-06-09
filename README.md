@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/brightspot/community/assets/116600623/8aac04f8-cdea-41f1-a4a0-794139803398" alt="brightspot logo" width="200">
+<img src="https://github.com/brightspot/community/assets/116600623/68484ada-544b-4a49-b2cb-ad8d70fad703" alt="brightspot logo" width="500">
 </p>
+
 
 # About
 
