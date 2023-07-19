@@ -4,7 +4,7 @@
 
 Connect with other developers using Brightspot and tap into a vibrant community of experts. Ask questions, share ideas, and join the community today to start developing with confidence.
 
-We are excited to have you participate in our community. Please take a look at our welcome guide and [code of conduct](https://github.com/brightspot/community/blob/main/.github/CODE_OF_CONDUCT.md) to effectively interact with the community. This is a public forum, please refrain from sharing any sensitive information.
+We are excited to have you participate in our community. Please take a look at our [welcome guide](https://github.com/orgs/brightspot/discussions/7) and [code of conduct](https://github.com/brightspot/community/blob/main/.github/CODE_OF_CONDUCT.md) to effectively interact with the community. This is a public forum, please refrain from sharing any sensitive information.
 
 # About
 
