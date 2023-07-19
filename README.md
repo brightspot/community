@@ -1,6 +1,3 @@
-<p align="left">
-<img src="https://github.com/brightspot/community/assets/116600623/68484ada-544b-4a49-b2cb-ad8d70fad703" alt="brightspot logo" width="500">
-</p>
 
 
 # Brightspot Development Community
